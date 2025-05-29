@@ -10,3 +10,5 @@ Seções: Sobre mim, Experiência, Educação, Habilidades, e Contato
 
 🎯 Objetivo:
 Disponibilizar meu currículo de forma prática, podendo ser acessado facilmente por recrutadores e colaboradores em potencial.
+
+Link: https://kaua-lop.github.io/web-curriculo/
